@@ -24,7 +24,7 @@
 - [x] Não aceitamos valores negativos nas contas
 - [x] Por questão de segurança cada transação de depósito não pode ser maior do que R$2.000
 - [x] Este Projeto foi Documentado com Swagger para facilitar os testes
-
+ 
 ### Pré-requisitos
 #### 🔧 Instalação e configuração
 
